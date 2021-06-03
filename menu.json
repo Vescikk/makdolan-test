@@ -1,0 +1,203 @@
+[{
+    "menu":[
+        {
+            "name":"BigMac",
+            "price":13.5,
+            "size":"medium",
+            "category":"burger",
+            "type":"meat",
+            "meal": false
+           
+        },{
+           "name":"Podwójny McRoyal ostry",
+           "price":16.7,
+           "size":"big",
+           "category":"burger",
+           "type":"meat",
+           "meal": false
+       },{
+           "name":"Podwójny McRoyal",
+           "price":16.2,
+           "size":"big",
+           "category":"burger",
+           "type":"meat",
+           "meal": false
+       },{
+           "name":"McRoyal",
+           "price":13.4,
+           "size":"medium",
+           "category":"burger",
+           "type":"meat",
+           "meal": false
+       },{
+           "name":"Podwójny WieśMac",
+           "price":16.2,
+           "size":"big",
+           "category":"burger",
+           "type":"meat",
+           "meal": false
+       },{
+           "name":"WieśMac",
+           "price":13.4,
+           "size":"medium",
+           "category":"burger",
+           "type":"meat",
+           "meal": false
+       },{
+           "name":"Filet-O-Fish",
+           "price":8.1,
+           "size":"small",
+           "category":"burger",
+           "type":"meat",
+           "meal": false
+       },{
+           "name":"McDouble",
+           "price":6.8,
+           "size":"small",
+           "category":"burger",
+           "type":"meat",
+           "meal": false
+       },{
+           "name":"Cheeseburger",
+           "price":4.5,
+           "size":"small",
+           "category":"burger",
+           "type":"meat",
+           "meal": false
+       },{
+           "name":"Kurczakburger",
+           "price":5.0,
+           "size":"small",
+           "category":"burger",
+           "type":"chicken",
+           "meal": false
+       },{
+           "name":"Chikker",
+           "price":5.5,
+           "size":"small",
+           "category":"burger",
+           "type":"chicken",
+           "meal": false
+       },{
+           "name":"Hamburger",
+           "price":4,
+           "size":"small",
+           "category":"burger",
+           "type":"meat",
+           "meal": false
+       },{
+           "name":"Jalapenoburger",
+           "price":4.5,
+           "size":"small",
+           "category":"burger",
+           "type":"meat",
+           "meal": false
+       },{
+           "name":"Burger Supreme Crispy Chicken",
+           "price":16.9,
+           "size":"big",
+           "category":"burger",
+           "type":"meat",
+           "meal": false
+          
+       },{
+           "name":"McNuggets 6szt",
+           "price":11.4,
+           "size":"small",
+           "category":"nuggets",
+           "type":"chicken",
+           "meal": false
+       },
+       {
+           "name":"McNuggets 9szt",
+           "price":13.6,
+           "size":"medium",
+           "category":"nuggets",
+           "type":"chicken",
+           "meal": false
+       },
+       {
+           "name":"McNuggets 20szt",
+           "price":21.6,
+           "size":"big",
+           "category":"nuggets",
+           "type":"chicken",
+           "meal": false
+       },{
+           "name":"Chicken Strips 3szt",
+           "price":11.7,
+           "size":"medium",
+           "category":"strips",
+           "type":"chicken",
+           "meal": false
+       },{
+           "name":"Chicken Strips 5szt",
+           "price":15.2,
+           "size":"medium",
+           "category":"strips",
+           "type":"chicken",
+           "meal": false
+       },{
+           "name":"McWrap Klasyczny",
+           "price":13.6,
+           "size":"medium",
+           "category":"wrap",
+           "type":"chicken",
+           "meal": false
+       },{
+           "name":"McWrap Bekon Deluxe",
+           "price":13.9,
+           "size":"medium",
+           "category":"wrap",
+           "type":"chicken",
+           "meal": false
+       },{
+        "name":"Duże Frytki",
+        "price":8.9,
+        "size":"big",
+        "category":"fries",
+        "type":"fries",
+        "meal": false
+    },{
+        "name":"Średnie Frytki",
+        "price":8.2,
+        "size":"medium",
+        "category":"fries",
+        "type":"fries",
+        "meal": false
+    },{
+        "name":"Małe Frytki",
+        "price":7.3,
+        "size":"small",
+        "category":"fries",
+        "type":"fries",
+        "meal": false
+    },{
+        "name":"Coca Cola 250ml",
+        "price":3.9,
+        "size":"small",
+        "category":"coke",
+        "type":"drink",
+        "meal": false
+    },{
+        "name":"Coca Cola 400ml",
+        "price":5.5,
+        "size":"medium",
+        "category":"coke",
+        "type":"drink",
+        "meal": false
+    },{
+        "name":"Coca Cola 500ml",
+        "price":6,
+        "size":"small",
+        "category":"coke",
+        "type":"drink",
+        "meal": false
+    }
+   ]}
+   
+   
+    
+   
+   
+   ]
